@@ -1,4 +1,4 @@
-### Bangla Text Generation 
+### Bangla Text Generation like Rabindranath Tagore
 #### MD Muhaimin Rahman
 contact: sezan92[at]gmail[dot]com
 
